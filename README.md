@@ -2,8 +2,7 @@
 
 ## I'm a passionate software developer from Bangladesh :bangladesh: :octocat:
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ Fun fact: I love to travel
+- :mountain_snow: Fun fact: I love to travel
 
 ### Connect with me:
 
