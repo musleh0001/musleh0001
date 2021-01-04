@@ -1,4 +1,4 @@
-### Hi there, I'm Md Musleh Uddin - aka musleh0001 👋
+### Hi there, I'm Md Musleh Uddin 👋
 
 ## I'm a passionate software developer from Bangladesh :bangladesh: :octocat:
 
