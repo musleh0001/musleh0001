@@ -2,8 +2,6 @@
 
 ## I'm a passionate software developer from Bangladesh :bangladesh: :octocat:
 
-- :mountain_snow: Fun fact: I love to travel
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/musleh_x_khan)
