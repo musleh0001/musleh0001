@@ -1,6 +1,6 @@
 ### Hi there, I'm Md Musleh Uddin 👋
 
-## I'm a passionate software developer from Bangladesh :bangladesh: :octocat:
+## I'm a passionate software engineer from Bangladesh :bangladesh: :octocat:
 
 ### Connect with me:
 
