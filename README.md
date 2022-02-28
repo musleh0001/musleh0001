@@ -1,16 +1,26 @@
-# Hi there, I'm Md Musleh Uddin 👋 🇧🇩 
+<div align="center">
+  <h1>
+    Hi there, I'm Musleh, a self-motivated tech enthusiast. 🇧🇩 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+  </h1>
+</div>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=musleh0001&show_icons=true&theme=radical" />
+<p align="left">
+  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=musleh0001&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
+  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=musleh0001&theme=radical" />
+  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musleh0001&layout=compact" />
+  <img width="46%" src="https://activity-graph.herokuapp.com/graph?username=musleh0001&theme=xcode" /></p>
+</p>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musleh0001&layout=compact" />
+> Trophies🏆
+<img width="93%" src="https://github-profile-trophy.vercel.app/?username=musleh0001&column=7&theme=gruvbox&no-frame=true"/>
 
 <br />
 
 ### Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ### Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
@@ -43,7 +53,7 @@
 
 ### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Deepin](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)
+![Zorin](https://img.shields.io/badge/Zorin-007CFF?style=for-the-badge&logo=zorin&logoColor=white)
 
 ### Social Media
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
