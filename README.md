@@ -1,6 +1,6 @@
 <div align="center">
   <h1>
-    Hi there, I'm Musleh, a self-motivated tech enthusiast. 🇧🇩 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+    🇧🇩 Hi there, I'm Musleh, a self-motivated tech enthusiast. 🇧🇩
   </h1>
 </div>
 
