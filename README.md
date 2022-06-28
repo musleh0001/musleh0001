@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="/assets/laptop-crop.png" alt="banner" width="100%" />
+</div>
+<div align="center">
   <h1>
     🇧🇩 Hi there, I'm Musleh, a self-motivated tech enthusiast. 🇧🇩
   </h1>
