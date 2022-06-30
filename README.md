@@ -12,7 +12,7 @@
   <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=musleh0001&theme=radical" />
   <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musleh0001&layout=compact&theme=radical" />
   <img width="46%" src="https://activity-graph.herokuapp.com/graph?username=musleh0001&theme=xcode" />
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musleh0001&theme=radical" />
+  <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musleh0001&theme=radical" />
 </p>
 
 > Trophies🏆
