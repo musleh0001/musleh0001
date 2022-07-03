@@ -3,7 +3,7 @@
 </div>
 <div align="center">
   <h1>
-    🇧🇩 Hi there, I'm Musleh, a self-motivated tech enthusiast. 🇧🇩
+    :octocat: 🇧🇩 Hi there, I'm Musleh, a self-motivated tech enthusiast. 🇧🇩 :octocat:
   </h1>
 </div>
 
