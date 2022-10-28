@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/LinkeIn-Banner-2.png" alt="banner" width="100%" />
+  <img src="/assets/github-banner.png" alt="banner" width="100%" />
 </div>
 <div align="center">
   <h1>
