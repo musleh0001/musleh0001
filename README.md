@@ -10,8 +10,6 @@
 <p align="left">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=musleh0001&show_icons=true&theme=radical&count_private=true&include_all_commits=true" /> 
   <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=musleh0001&theme=radical" />
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=musleh0001&layout=compact&theme=radical" />
-  <img width="46%" src="https://activity-graph.herokuapp.com/graph?username=musleh0001&theme=xcode" />
   <img width="94%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=musleh0001&theme=radical" />
 </p>
 
@@ -20,6 +18,7 @@
 <br />
 
 #### Languages
+![C++](https://img.shields.io/static/v1?style=for-the-badge&message=C%2B%2B&color=00599C&logo=C%2B%2B&logoColor=FFFFFF&label=)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -61,4 +60,5 @@
 
 #### OS
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/static/v1?style=for-the-badge&message=Arch+Linux&color=1793D1&logo=Arch+Linux&logoColor=FFFFFF&label=)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
